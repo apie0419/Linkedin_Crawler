@@ -1,0 +1,39 @@
+name: ln_crawler_py3.5
+channels:
+  - defaults
+dependencies:
+  - asn1crypto=0.24.0=py35_0
+  - ca-certificates=2018.03.07=0
+  - certifi=2018.4.16=py35_0
+  - cffi=1.11.5=py35h9745a5d_0
+  - cryptography=2.2.2=py35h14c3975_0
+  - icu=58.2=h9c2bf20_1
+  - idna=2.6=py35h8605a33_1
+  - libedit=3.1.20170329=h6b74fdf_2
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=7.2.0=hdf63c60_3
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - libxml2=2.9.8=hf84eae3_0
+  - libxslt=1.1.32=h1312cb7_0
+  - lxml=4.2.1=py35h23eabaa_0
+  - ncurses=6.1=hf484d3e_0
+  - openssl=1.0.2o=h20670df_0
+  - pip=10.0.1=py35_0
+  - psutil=5.4.5=py35h14c3975_0
+  - pycparser=2.18=py35h61b3040_1
+  - pyopenssl=17.5.0=py35h4f8b8c8_0
+  - pysocks=1.6.8=py35_0
+  - python=3.5.5=hc3d631a_4
+  - readline=7.0=ha6073c6_4
+  - selenium=3.11.0=py35_0
+  - setuptools=39.1.0=py35_0
+  - six=1.11.0=py35h423b573_1
+  - sqlite=3.23.1=he433501_0
+  - tk=8.6.7=hc745277_3
+  - urllib3=1.22=py35h2ab6e29_0
+  - w3lib=1.19.0=py35_0
+  - wheel=0.31.1=py35_0
+  - xz=5.2.3=h5e939de_4
+  - zlib=1.2.11=ha838bed_2
+prefix: /home/xavyjs/anaconda3/envs/ln_crawler_py3.5
+
